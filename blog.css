@@ -337,6 +337,23 @@ footer a:hover {
     padding: 0 1rem;
   }
 
+  .navbar {
+    padding: 0.5rem;
+  }
+
+  .navbar h1 {
+    font-size: 1.5rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .navbar p {
+    font-size: 0.85rem;
+  }
+
+  body {
+    padding-top: 80px;
+  }
+
   .main-article {
     flex: 1 1 100%;
   }
